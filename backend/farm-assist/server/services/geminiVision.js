@@ -1,5 +1,5 @@
 // server/services/geminiVision.js
-const fetch = require("node-fetch");
+// const fetch = require("node-fetch");
 
 const API_KEY = process.env.GEMINI_API_KEY;
 
